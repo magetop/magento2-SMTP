@@ -1,5 +1,30 @@
-# Magento 2 SMTP Extension - Gmail, Amazon SES, Mailgun, SendGrid, Mandrill
+# Magento 2 SMTP by MageTop
 
-Every day you send and receive so many even more hundreds of emails, however, you actually do not know whether they come to your targeted customers or not. Therefore, **Magento 2 SMTP Extension** is come out as the solution for this problem.
+**Magento 2 SMTP Extension** by MageTop helps improve your email reputation which is vital for every email marketing campaign. Say GOODBYE to SPAMBOX now! With friendly configurable port and host, brief modules along with user guide line stick below the fields, this extension is surely be useful for every online store.
 
-**SMTP Extension for Magento 2** helps the owner of store simply install **SMTP (Simple Mail Transfer Protocol)** server which transmits the messages into codes or numbers. Through it, messages will be delivered directly and automatically to the chosen customers. Moreover, it is also flexible configurations with 21 different *SMTP servers* such as `Gmail, Hotmail, O2 Mail, Office365, Mail.com, Send In Blue, AOL Mail Orange, GMX, Outlook, Yahoo, Comcast, or Custom SMTP` - own SMTP server, etc. 
+## Highlight features
+
+- Send email through virtually any external SMTP server from your Magento store.
+- Easily configure Magento 2 SMTP settings from within Magento2 store admin.
+- Complete control of custom SMTP server settings: Hostname, Port, Username, Password ...
+- Self test option, which lets you verify your email credentials are correct before saving.
+- Support Multi-store, configurable different email providers/accounts per store.
+- Support secure SMTP servers: TLS / SSL, Plain-text, username/password, CRAM-MD5 authentication.
+- Customize email headers: From / Reply-To / Return-Path.
+- Disable/enable module from admin.
+- Developer Friendly.
+- Integrate with any third-party SMTP server.
+- 100% Open-source, Support multi-store, Support multi-language.
+- Easy to install and customize.
+- And many more feature ...
+
+## More features & Demo
+
+- Extension details : https://www.magetop.com/magento-2-smtp-extension.html
+- SMTP Test Email Demo : https://magento2.demo.magetop.com/demo-full/admin
+
+## Support & Contact info
+
+- Need help setting up or want to customize this extension to meet your business needs? 
+- Get instant support with our Live Chat
+- Send Us an email to info@magetop.com or Contact Us : https://www.magetop.com/contacts
