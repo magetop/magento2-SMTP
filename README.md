@@ -23,7 +23,7 @@
 - Extension details : https://www.magetop.com/magento-2-smtp-extension.html
 - SMTP test email demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
