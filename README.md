@@ -1,6 +1,6 @@
-# Magento 2 SMTP by MageTop
+# Magento 2 SMTP by Magetop
 
-**Magento 2 SMTP Extension** by MageTop helps improve your email reputation which is vital for every email marketing campaign. Say GOODBYE to SPAMBOX now! With friendly configurable port and host, brief modules along with user guide line stick below the fields, this extension is surely be useful for every online store.
+**Magento 2 SMTP Extension** by Magetop helps improve your email reputation which is vital for every email marketing campaign. Say GOODBYE to SPAMBOX now! With friendly configurable port and host, brief modules along with user guide line stick below the fields, this extension is surely be useful for every online store.
 
 ## Highlight features
 
@@ -18,10 +18,10 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-smtp-extension.html
-- SMTP Test Email Demo : https://magento2.demo.magetop.com/demo-full/admin
+- SMTP test email demo : https://magento2.demo.magetop.com/demo-full/admin
 
 ## Support & Contact info
 
