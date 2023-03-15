@@ -21,7 +21,7 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-smtp-extension.html
-- SMTP test email demo : https://magento2.demo.magetop.com/demo-full/admin
+- SMTP test email demo : https://demo.magetop.com/demo-full/admin
 
 ## Support & contact info
 
